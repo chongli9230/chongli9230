@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am ChongLi. A master student in Renmin University of China, Beijing, major in Computer Science. 
+
+Recently, I am quite interested in search recommendation advertisements, nlp, and other directions. 😊
+Let study and communicate together！
 
 <!--
 **chongli9230/chongli9230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
